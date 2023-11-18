@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Sample Medium Question",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Sample Hard Question",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Another Easy Question",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 8
+  },
+  {
+    "question": "Medium Question in Chemistry",
+    "subject": "Chemistry",
+    "topic": "Compounds",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Difficult Biology Question",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 20
+  }
+]
