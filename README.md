@@ -7,7 +7,7 @@ This is a simple Question Paper Generator application implemented in Node.js. Th
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/alaanuqtah/ReeloApp.git
    cd ReeloApp
 2. **Install  dependencies:**
     ```bash
